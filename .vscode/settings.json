@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        ".fantomasignore": "ignore",
+        "new": "cpp",
+        "__node_handle": "cpp"
+    }
+}
